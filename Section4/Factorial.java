@@ -11,6 +11,7 @@ public class Factorial {
             if (x <= 1) {
                 return 1;
             } else {
+                System.out.println("test====t " );
                 return x * factorialFunc(x- 1);
             }
         }
