@@ -12,6 +12,9 @@ public class PrimeCheck {
         }
     }
 
+
+
+
     public static boolean isPrime(int num) {
         // اعداد کمتر از ۲ اول نیستند
         if (num <= 1) {
