@@ -3,8 +3,6 @@ package section7;
 public class MenuItem {
 
 
-
-
         private String name;
         private double price;
         private double rating;
